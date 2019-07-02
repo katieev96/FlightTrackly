@@ -8,6 +8,8 @@
   <ItemGroup>
     <Compile Remove="Data\Migrations\00000000000000_CreateIdentitySchema.cs" />
     <Compile Remove="Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs" />
+    <Compile Remove="Migrations\20190702012927_initial.cs" />
+    <Compile Remove="Migrations\20190702012927_initial.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

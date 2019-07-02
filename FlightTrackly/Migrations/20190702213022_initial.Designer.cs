@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlightTrackly.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20190702012927_initial")]
+    [Migration("20190702213022_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
